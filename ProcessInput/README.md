@@ -1,1 +1,1 @@
-
+This script takes the frames (numbered from 00001.png on) in the inputs folder, processes the difference between them, then saves the resulting setblock functions into the frames folder, which is meant to go in the world save's function folder
